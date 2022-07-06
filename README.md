@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thegearsh
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java Programming
 - 📫 How to reach me @thegearsh
 
